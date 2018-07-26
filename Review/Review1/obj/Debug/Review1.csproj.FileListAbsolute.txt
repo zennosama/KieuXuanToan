@@ -1,0 +1,6 @@
+c:\users\kieuxuantoan\documents\visual studio 2015\Projects\Review\Review1\bin\Debug\Review1.exe.config
+c:\users\kieuxuantoan\documents\visual studio 2015\Projects\Review\Review1\bin\Debug\Review1.exe
+c:\users\kieuxuantoan\documents\visual studio 2015\Projects\Review\Review1\bin\Debug\Review1.pdb
+c:\users\kieuxuantoan\documents\visual studio 2015\Projects\Review\Review1\obj\Debug\Review1.csprojResolveAssemblyReference.cache
+c:\users\kieuxuantoan\documents\visual studio 2015\Projects\Review\Review1\obj\Debug\Review1.exe
+c:\users\kieuxuantoan\documents\visual studio 2015\Projects\Review\Review1\obj\Debug\Review1.pdb
